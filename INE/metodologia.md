@@ -1,4 +1,4 @@
-# INE: Metodología Avanzada de Ciberseguridad e Infraestructura de Red
+# INE: Ciberseguridad e Infraestructura de Red
 
 Este documento consolida los apuntes técnicos, metodologías, fases de reconocimiento, explotación y post-explotación (tanto en entornos Linux como Windows/Active Directory) provenientes de los laboratorios y módulos de formación de **INE**.
 
