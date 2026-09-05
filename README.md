@@ -1,4 +1,4 @@
-# Portfolio de Ciberseguridad y Seguridad Ofensiva
+# Portfolio de Ciberseguridad 
 
 Repositorio personal enfocado en el documentación de metodologías, laboratorios, laboratorios de certificación y apuntes técnicos en seguridad, pentesting y auditorías de infraestructura.
 
