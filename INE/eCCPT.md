@@ -1,6 +1,6 @@
 # eCCPT: Seguridad Ofensiva, Active Directory y Aplicaciones Web
 
-Este documento recopila apuntes técnicos, metodologías de explotación de infraestructura, administración de entornos Windows Server[cite: 2], Active Directory[cite: 2], análisis de mecanismos de autenticación y vulnerabilidades web avanzadas (como SSRF[cite: 2] y XXE[cite: 2]) correspondientes al nivel **eCCPT**.
+Este documento recopila apuntes técnicos, metodologías de explotación de infraestructura, administración de entornos Windows Server, Active Directory, análisis de mecanismos de autenticación y vulnerabilidades web avanzadas (como SSRF y XXE) correspondientes al nivel **eCCPT**.
 
 ---
 
