@@ -1,6 +1,6 @@
 # eJPT & INE: Metodología y Checklist Profesional de Pentesting
 
-Este documento consolida los apuntes técnicos, metodologías, comandos y flujos de trabajo prácticos derivados de la certificación **eJPT (eLearnSecurity Junior Penetration Tester)** y los módulos de **INE**, estructurados de forma modular, profesional y lista para ser integrada en GitHub.
+Este documento consolida los apuntes técnicos, metodologías, comandos y flujos de trabajo prácticos derivados de la certificación **eJPT (eLearnSecurity Junior Penetration Tester)** y los módulos de **INE**, estructurados de forma modular.
 
 ---
 
